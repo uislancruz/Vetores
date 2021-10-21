@@ -16,6 +16,8 @@ public class Vetor01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //int n[] = new int[4]; //criando um vetor pode ser assim e depois artribuir para cada bloco seu valor ou fazer o de baixo
+        int n[] = {3,2,8,7,5,4};
     }
     
 }
