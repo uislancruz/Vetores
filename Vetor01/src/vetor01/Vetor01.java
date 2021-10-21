@@ -18,7 +18,7 @@ public class Vetor01 {
         // TODO code application logic here
         //int n[] = new int[4]; //criando um vetor pode ser assim e depois artribuir para cada bloco seu valor ou fazer o de baixo
         int n[] = {3,2,8,7,5,4};
-        
+        System.out.println("Total de casa de N " +n.length);        
         for(int c=0;c<=5;c++){
            
             System.out.println("Na posição " + c + " temos o valor " +n[c]);
